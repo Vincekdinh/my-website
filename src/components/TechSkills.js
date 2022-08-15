@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable jsx-a11y/anchor-has-content */
 import aggie from '../assets/images/aggie.png'
-import ucdavis from '../assets/images/ucdavislogo.jpeg'
+import ucdavis from '../assets/images/ucdavislogo.png'
 
 function TechSkills(){
 

@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable jsx-a11y/anchor-has-content */
-import selfie from '../assets/images/VinceSelfie.JPG'
+import selfie from '../assets/images/VinceSelfie.png'
 
 function About(){
 
