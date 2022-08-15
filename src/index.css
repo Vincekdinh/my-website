@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Cambria, Cochin, Georgia, Times, 'Times New Roman', serif';
-  /* font-size: 14px; */
+  font-size: 1.25rem;
   background-image: url("./assets/images/Marshmello.jpg");
   background-attachment: fixed;
   background-position: center;
@@ -44,7 +44,7 @@ hr {
 
 img.center_img {
   min-width: 10%;
-  max-width: 50%;
+  max-width: 45%;
   border-radius: 5%;
 }
 
@@ -227,7 +227,9 @@ img.language_img:hover {
   font-family:'Permanent Marker';
 }
 
-@media (min-width: 1400px) {
+/* under 1400px, apply @media */
+
+@media (max-width: 1400px) {
   body{
     font-size: 1.2rem;
   }
@@ -235,8 +237,6 @@ img.language_img:hover {
     height: auto;
   }
 }
-
-/* under 992px, apply @media */
 
 @media (max-width: 992px) {
   body{
