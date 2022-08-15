@@ -12,7 +12,7 @@ import TypeScript from '../assets/images/typescript_256.icns.png'
 import ES6 from '../assets/images/ES6.png'
 
 
-function Language() {
+function Languages() {
 
   return (
     <section aria-label="language">
@@ -28,8 +28,8 @@ function Language() {
             <img className="language_img" src={HTML} alt="html" data-aos="zoom-in-up" />
             <img className="language_img" src={CSS} alt="css" data-aos="zoom-in-up" /> 
             <img className="language_img" src={JavaScript} alt="javascript" data-aos="zoom-in-up" />
-            </div>
-            <div className="row-end">
+        </div>
+        <div className="row-end">
             <img className="language_img" src={Express} alt="react" data-aos="zoom-in-up" />
             <img className="language_img" src={ReactJS} alt="react" data-aos="zoom-in-up" />
             <img className="language_img" src={NodeJS} alt="nodejs" data-aos="zoom-in-up" />
@@ -43,4 +43,4 @@ function Language() {
   )
 }
 
-export default Language;
+export default Languages;

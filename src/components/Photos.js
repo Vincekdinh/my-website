@@ -1,6 +1,7 @@
 import React from 'react'
 
 function Photos() {
+  
   return (
     <section aria-label="photos">
     <div className="row5">

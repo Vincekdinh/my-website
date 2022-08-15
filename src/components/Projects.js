@@ -3,6 +3,7 @@
 import React from 'react'
 
 function Projects() {
+    
   return (
     <section aria-label="projects">
         <a id="row7" className="anchor"></a>

@@ -3,6 +3,7 @@
 import selfie from '../assets/images/VinceSelfie.JPG'
 
 function About(){
+
     return (
         <section aria-label="about">
             <a href="#" id="row1" className="anchor"/>

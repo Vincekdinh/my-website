@@ -5,11 +5,12 @@ import TechSkills from './components/TechSkills';
 import WorkExp from './components/WorkExp';
 import Hobbies from './components/Hobbies';
 import Photos from './components/Photos';
-import Language from './components/Language';
+import Languages from './components/Languages';
 import Projects from './components/Projects';
 import Layout from './components/Layout';
 
 function App() {
+
   return (
     <Layout>
       <Welcome/>
@@ -19,7 +20,7 @@ function App() {
       <WorkExp/>
       <Hobbies/>
       <Photos/>
-      <Language/>
+      <Languages/>
       <Projects/>
     </Layout>
   );
