@@ -6,7 +6,7 @@
 }
 
 body {
-  font-family: 'Cambria, Cochin, Georgia, Times, 'Times New Roman', serif';
+  /* font-family: 'Cambria'; */
   font-size: 1.25rem;
   background-image: url("./assets/images/Marshmello.jpg");
   background-attachment: fixed;
@@ -44,12 +44,12 @@ hr {
 
 img.center_img {
   min-width: 10%;
-  max-width: 45%;
+  max-width: 50%;
   border-radius: 5%;
 }
 
 img.logo_img {
-  max-width: 60%;
+  max-width: 50%;
   min-width: 350px;
 }
 
